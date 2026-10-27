@@ -1,0 +1,13 @@
+*
+!.gitignore
+
+!/Depth_Data/
+!/Depth_Data/**
+!/MonoBleedingEdge/
+!/MonoBleedingEdge/**
+
+!/*.exe
+!/dstorage.dll
+!/UnityPlayer.dll
+
+/UnityCrashHandler64.exe
